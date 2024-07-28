@@ -1,0 +1,5 @@
+name: VillagerGlobalPrice
+version: '${project.version}'
+main: br.com.rillis.villagerglobalprice.VillagerGlobalPrice
+api-version: '1.21'
+depend: [NBTAPI]
